@@ -1,0 +1,8 @@
+.image {
+    width: 800px;
+    height: 600px;
+    background-image: url("http://placekitten.com/g/800/600");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
